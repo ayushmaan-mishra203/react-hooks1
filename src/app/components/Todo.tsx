@@ -1,4 +1,4 @@
-// src/components/Todo.tsx
+"use client"
 import React, { useReducer, useState } from 'react';
 
 interface Todo {
